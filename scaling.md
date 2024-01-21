@@ -1,0 +1,2 @@
+- https://andrew.gibiansky.com/blog/machine-learning/baidu-allreduce/
+- http://seba1511.net/dist_blog/

@@ -1,0 +1,6 @@
+- [Tokenizers: How machines read](https://blog.floydhub.com/tokenization-nlp/)
+- https://huggingface.co/docs/transformers/tokenizer_summary
+- https://leimao.github.io/blog/Byte-Pair-Encoding/
+- https://datascience.stackexchange.com/questions/88824/unigram-tokenizer-how-does-it-work
+- https://medium.com/@rickbattle/weaknesses-of-wordpiece-tokenization-eb20e37fec99
+- https://jacky2wong.medium.com/understanding-sentencepiece-under-standing-sentence-piece-ac8da59f6b08
